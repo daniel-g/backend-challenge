@@ -31,3 +31,6 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+db/neo4j/development
+db/neo4j/test
+db/neo4j/production
